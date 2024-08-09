@@ -1,5 +1,8 @@
 package main
 
+import HelloWorld "Demo/HelloWorld"
+
 func main() {
-	print("Hello")
+	println("Hello")
+	HelloWorld.PrintHelloWorld()
 }

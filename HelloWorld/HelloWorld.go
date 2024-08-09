@@ -1,4 +1,4 @@
-package LearnModule
+package HelloWorld
 
 import "fmt"
 
