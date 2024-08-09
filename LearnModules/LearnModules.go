@@ -1,7 +1,7 @@
-package main
+package LearnModule
 
 import "fmt"
 
-func main() {
+func PrintHelloWorld() {
 	fmt.Println("Welcome to this new journey")
 }
